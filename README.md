@@ -1,8 +1,8 @@
-# Smartmirror.one - WazeRouteCalculator
+ WazeRouteCalculator
 
 ## What is it?
 
-A NodeJS and Typescript port of the original [Python-based implementation by Balu Kovacs](https://github.com/kovacsbalu/WazeRouteCalculator/). All original development was done in that project, we ported the logic to Node/TS to make it easy to import for the [SmartMirror1](https://smarmirror.one) project.
+A NodeJS and Typescript port of the original [Python-based implementation by Balu Kovacs](https://github.com/kovacsbalu/WazeRouteCalculator/). All original development was done in that project, we ported the logic to Node/TS to make it easy to import
 
 ## How can I use it
 
